@@ -1,0 +1,10 @@
+click
+fastapi
+uvicorn[standard]
+transformers
+datasets
+evaluate
+torch
+openai
+python-dotenv
+scikit-learn

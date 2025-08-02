@@ -1,0 +1,23 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Data files
+data/*.csv
+
+# Hugging Face checkpoints
+checkpoints/
+reply_checkpoints/
+
+# Logs and temporary files
+*.log
+.ipynb_checkpoints/
+
+# OS 
+.DS_Store
+Thumbs.db
